@@ -1,0 +1,13 @@
+Matrizes
+
+Listas de listas
+
+Estrutura de dados bidimensional com linhas e colunas
+
+A
+1 2 3
+4 5 6
+7 8 9
+
+A[0][0] == 1
+A[2][1] = 99
