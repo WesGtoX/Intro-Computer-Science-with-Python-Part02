@@ -1,0 +1,13 @@
+Módulos em Python
+
+Arquivos com extensão .py contendo
+- definições
+- comandos (statements)
+
+Um módulo pode ser importato por outro utilizando o comando import
+
+O nome do módulo (nome do arquivo sem a extensão .py) fica disponível na variável __name__
+
+
+if __name__ == "__main__":  # ele executa o que está nessa condição se for executado como script.
+                            # se for importado, não executa.

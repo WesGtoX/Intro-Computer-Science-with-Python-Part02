@@ -1,0 +1,35 @@
+Strings
+
+int, float, bool
+
+str, listas
+
+Funções com strings / métodos de String
+
+
+time = 'Íbis'
+
+time.upper()    # 'ÍBIS' - tudo maiúscula
+
+time.lower()    # 'íbis' - tudo minúscula
+
+BRAZIL.capitalize()   # 'Brazil' - primeira letra maiúscula
+
+"   wesley@hotmail.com  ".strip()    # 'wesley@hotmail.com' - remove espaços em branco
+
+"ana gosta de banana".count("a")    # 6 - conta quantas vezes aparece o "a"
+
+"Eu torço para o São Paulo".replace("São Paulo", "Corinthians")     # 'Eu torço para o Corinthians' - substitui um predaço da string, por outro
+
+BRAZIL.capitalize().center(10)  #'          Ana gosta de banana' - centraliza a string em 10 caracteres
+
+texto = "Minha terra tem palmeiras onde gorgeia o mar"
+texto.find("m")     # 14 - fala a posição que está o primeiro 'm'
+texto.find("ma")    # 41 - primeira ocorrencia da silaba 'ma'
+texto.find("bom")   # -1 - indica que a string 'bom' não está presente em texto
+len(texto)          # 44 - comprimento da string
+
+fruta = "amora"
+fruta[:4]   # 'amor' - pega pedaços da string
+fruta[1:]   # 'mora'
+fruta[2:4]   # 'or'

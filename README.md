@@ -10,7 +10,7 @@ Python is a programming language that lets you work quickly and integrate system
 
 ## References ##
 
-Course: [Intro to Computer Science with Python Part ](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2/)
+Course: [Intro to Computer Science with Python Part 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2/)
 
 ### License ###
 
