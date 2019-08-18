@@ -1,0 +1,39 @@
+Complexidade Computacional
+
+- Análise matemática do desempenho de um algoritmo
+
+- Estudo analítico de:
+    - quantas operações um algoritmo requer para que ele seja executado.
+    - quanto tempo ele vai demorar para ser executado.
+    - quanto de memória ele vai ocupar
+
+
+Análise de Busca Sequencial
+
+- Exemplo: Lista telefônica de São Paulo.
+
+- Suponho 2 milhões de telefones fixos.
+
+- Suponho que cada iteração do for comparação de string dure 1 milissegundo.
+
+- Pior caso: 2000s = 33,3 minutos.
+- Caso médio: 1000s = 16,6 minutos.
+
+
+Complexidade Computacional da Busca Sequancial.
+
+- Data uma lista de tamanho n.
+
+- A complexidade computacional da busca sequencial é:.
+    - n, no pior caso.
+    - n/2, no cado médio.
+
+
+Conclusão
+
+- Busca sequancial é boa pois é bem simples.
+- Funciona bem quando a busca é feita num volume pequno de dados.
+
+- Sua complexidade Computacional é muito alta.
+- É muito lenta quando o volume de dados é grande.
+- Portanto, dizemos que é um algotimo ineficiente.

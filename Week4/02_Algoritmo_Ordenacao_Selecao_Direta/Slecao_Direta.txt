@@ -1,0 +1,11 @@
+Seleção Direta
+
+- A cada passo, busca pelo mneor elemento do pedaço ainda não ordenado da lista e o coloca no ínicio da lista.
+
+- No 1º passo, busca o menor elemento de todos o coloca na posição inicial da lista
+
+- No 2º passo, busca o 2º menor elemento da lista e o coloca na 2ª posição da lista.
+
+- No 3º passo, busca o 3º menor elemento da lista e o coloca na 3ª posição da lista.
+
+- Repete até terminar a lista.
