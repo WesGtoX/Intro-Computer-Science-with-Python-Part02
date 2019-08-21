@@ -1,0 +1,5 @@
+Melhoria no algoritmo da Bolha
+
+- Percorre a lista múltiplas vezes; a cada passagem, compara todos os elementos adjacentes e troca de lugar os que estiverem fora de ordem.
+
+- Melhoria: se em uma das iterações, nenhuma troca é realizada, isso significa que a lista já está ordenada e podemos finalizar o algoritmo.

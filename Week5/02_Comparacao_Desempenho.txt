@@ -1,0 +1,15 @@
+Comparação de Desempenho
+
+- Como medir o desempenho de um programa Python
+
+- Há várias formas. Por exemplo:
+    - Módulo time
+        - Função time()
+        - Devolve o tempo decorrido (em segundos) desde 1/1/1970 (no Unix)
+
+import time
+
+antes = time.time()
+algoritmo_a_ser_cronometrado()
+depois = time.time()
+print("A execução do algoritmo demorou ", depois - antes, "segundos")

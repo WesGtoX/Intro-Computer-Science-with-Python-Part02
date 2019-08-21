@@ -1,0 +1,36 @@
+Eficiência da Busca
+
+- Vimos que Busca Sequancial não é muito eficiente.
+
+- Que tal levar em conta o fato de que a lista está ordenada?
+
+
+Algoritmo da Busca Binária
+
+- Objetivo: localizar elemento x em uma lista
+
+- Considere o elemento m do meio da lista
+    - x == m  => encontrou!
+    - x < m   => procure apenas na 1ª metada (esquerda)
+    - x > m   => procure apenas na 2ª metada (esquerda)
+
+
+Complexidade da Busca Binária
+
+- Dado uma lista de n elementos
+
+- No pior caso, teremos que efetuar:
+    - log²n comparações
+
+- No exemplo da lista telefônica:
+    - log²(2 milhões) = 20,9
+    - Portanto, resposta em menos de 21 milissegundos
+
+
+Conclusão
+
+- Busca Binária é um algoritmo bastante eficiente!
+
+- Ao estudar a eficiência de um algoritmo é interessante:
+    - Analisar a complexidade computacional
+    - Realizar experimentos medindo o desempenho
