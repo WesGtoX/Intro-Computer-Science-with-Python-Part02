@@ -1,0 +1,7 @@
+Conclusão
+
+- Recursão é uma ferramenta poderosa para se lidar com problemas complexos.
+
+- Aplica o princípio da Divisão e Conquista.
+
+- Em programação, normalmente é identificada por funções ou métodos que chamam a si mesmos

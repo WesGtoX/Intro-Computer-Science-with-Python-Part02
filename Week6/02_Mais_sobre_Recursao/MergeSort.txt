@@ -1,0 +1,9 @@
+Ordenação por Intercalação
+MergeSort
+
+- Divida a lista na metade recursivamente, até que cada sublista contenha apenas 1 elemento (portanto, já ordenado).
+
+- Repetidamente, intercale as sublistas para produzir novas listas ordenadas.
+
+- Animação interessante em
+www.toptal.com/developers/sorting-algorithms

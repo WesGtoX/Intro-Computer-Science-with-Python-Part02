@@ -1,0 +1,30 @@
+O que é recursão?
+
+- Muitos problemas contém, dentro de si, problemas menores
+    - que são similares ao problema maior
+
+- Esses problemas tem uma estrutura recursiva
+
+- Podemos aplicar um algoritmo recursivo para resolvê-los
+
+Como resolver um problema recursivo:
+Um algoritmo recursivo
+
+- Se o tamanho do problema for pequeno
+    - Resolva-o diretamente
+
+- Senão
+    - Reduza-0 a uma instância menor do mesmo problema
+    - Aplique o algoritmo (recursivamente) à instância menor
+    - Volte à instancia original
+
+
+Exemplos de algoritmos recursivos:
+
+- Fatorial
+
+- Fibonacci
+
+- Busca Binária
+
+- MergeSort
