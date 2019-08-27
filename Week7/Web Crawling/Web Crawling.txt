@@ -1,0 +1,35 @@
+Web Crawling
+
+- É um precesso de extração de informação.
+
+
+Scrapy (scrapy.org)
+
+- Python;
+
+- Código aberto;
+
+- Interface simples para construção de Spiders;
+
+- Facilidade de estruturar conteúdo extraído;
+
+- Execução de spiders na nuvem (Cloud).
+
+
+Primeiros Passos
+
+- Instalando:
+`pip install scrapy`
+
+- Criando o projeto:
+`scrapy startproject scrapy_cultural_sp`
+
+
+Considerações
+
+- Código disponível em:
+https://github.com/besson/scrapy_cultural_sp
+
+- Para um crawler real
+    - Persistir atrações diretamente em um banco de dados (Scrapy Item Pipelines)
+    - Rodar periodicamente (Scrapy Cloud)

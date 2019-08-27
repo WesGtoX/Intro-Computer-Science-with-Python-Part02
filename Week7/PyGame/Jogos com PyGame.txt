@@ -1,0 +1,4 @@
+Jogos com PyGame - Com prof. Alfredo Goldman
+
+- Tutorial PyGame
+https://www.pygame.org/docs/tut/PygameIntro.html
